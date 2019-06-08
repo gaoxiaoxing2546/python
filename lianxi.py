@@ -4,3 +4,7 @@ while a < 100:
 		break
 	a += 1
 print(a)
+
+num = 20
+if num > a:
+	print(True)
