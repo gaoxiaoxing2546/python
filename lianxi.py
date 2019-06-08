@@ -8,3 +8,9 @@ print(a)
 num = 20
 if num > a:
 	print(True)
+
+
+def sum():
+	pass
+
+
